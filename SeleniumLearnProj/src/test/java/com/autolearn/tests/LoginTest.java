@@ -7,6 +7,7 @@ import com.autolearn.pages.BaseClass;
 
 public class LoginTest extends BaseClass {
 
+	//Login Test
 	
 	@Test
 	public void Login()
