@@ -17,6 +17,8 @@ import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.MediaEntityBuilder;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
+//Base Class
+
 public class BaseClass {
 
 	public WebDriver driver;
